@@ -21,7 +21,7 @@ Hermes is a cross-platform file manager written in C++, designed to empower user
 
 ### Build Instructions
 ```bash
-git clone https://github.com/yourusername/Hermes.git
+git clone https://github.com/JustinPhillipsPDX/Hermes.git
 cd Hermes
 mkdir build && cd build
 cmake ..
